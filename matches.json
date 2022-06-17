@@ -8,12 +8,12 @@
     "mandante":{
       "nome": "São Paulo",
      "forca": 4,
-      "imagem": "TODO"
+      "imagem": "https://logodownload.org/wp-content/uploads/2016/09/sao-paulo-fc-logo.png"
     },
     "visitante":{
       "nome": "Corinthians",
      "forca": 4,
-      "imagem": "TODO"
+      "imagem": "https://logodownload.org/wp-content/uploads/2016/11/corinthians-logo-0.png"
     }
   }
 ]
