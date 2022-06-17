@@ -1,1 +1,18 @@
-
+[
+  {
+    "descricao": "Rodadas do Campeonato Brasileiro 2022",
+    "local": {
+      "nome": "Morumbi",
+      "imagem": "TODO
+    },
+    "mandante":{
+      "nome": "São Paulo",
+     "forca": 4,
+      "imagem": "TODO"
+    },
+    "visitante":{
+      "nome": "Corinthians",
+     "forca": 4,
+      "imagem": "TODO"
+  }
+]
